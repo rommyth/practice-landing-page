@@ -2,4 +2,4 @@
 Web Landing Page RTH Cloud
 
 Sample Web
-https://webicat.github.io/rth-landing-page/
+https://webicat.github.io/practice-landing-page/
